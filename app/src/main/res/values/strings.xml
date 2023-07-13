@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kadpoly_navigation_system</string>
+
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZ3dhYnN0ZWNoIiwiYSI6ImNsamJoa2d4djFwNXgzanF4NzR2OGtkYTcifQ.hM_w7OzcNKa_tNQt6aFo9g</string>
+
+
+</resources>
+
